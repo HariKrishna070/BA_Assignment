@@ -17,7 +17,7 @@ Build a classification model to predict customer churn.
 Provide a summary of factors influencing churn and what actions can be taken to prevent customer churn.
 
 
-Problem Statement 2: Customer Sentiment Analysis
+# Problem Statement 2: Customer Sentiment Analysis
 Objective: Conduct a sentiment analysis on customer review data to categorize reviews into positive, neutral, or negative sentiments.
 
 Data Provided: A dataset of product reviews and comments. The data also includes 'customer ratings' which can be used to validate the sentiment classification model.
